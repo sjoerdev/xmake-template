@@ -1,6 +1,6 @@
 ## Description:
 
-This is a template for using opengl with the xmake build system.
+This is a template for using the xmake build system.
 
 ## Requirements:
 
